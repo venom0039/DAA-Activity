@@ -1,0 +1,3 @@
+﻿  Coffee Shop.c
+D:\My File\SLIIT\Y2S1\DAA\Activity\Coffee Shop\Coffee Shop\Coffee Shop.c(5,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Coffee Shop.vcxproj -> D:\My File\SLIIT\Y2S1\DAA\Activity\Coffee Shop\x64\Debug\Coffee Shop.exe
