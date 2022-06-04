@@ -1,3 +1,15 @@
 ﻿  CarServiceStation.c
-D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(8,23): warning C4101: 'vtype': unreferenced local variable
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(91,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(93,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(98,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(100,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(103,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(105,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(108,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(110,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(113,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(115,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(120,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(122,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\CarServiceStation\CarServiceStation.c(9,81): warning C4101: 'loytemp': unreferenced local variable
   CarServiceStation.vcxproj -> D:\My File\SLIIT\Y2S1\DAA\Activity\CarServiceStation\x64\Debug\CarServiceStation.exe
